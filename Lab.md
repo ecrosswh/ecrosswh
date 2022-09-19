@@ -3,3 +3,6 @@ https://www.detectionlab.network/
 
 Unix permissions
 https://mywiki.wooledge.org/Permissions
+
+Kerberos
+https://en.hackndo.com/kerberos/
