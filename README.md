@@ -1,1 +1,1 @@
-I'm considering using this as a glorified pastebin, we'll see how it goes. 
+I'm considering using this as a glorified pastebin, we'll see how it goes. The idea isn't to transpose every bookmark and scrap, but a repository of findings that have the potential to be useful to others, or the kinds of things I've already had to seek out more than once.
