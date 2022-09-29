@@ -9,3 +9,6 @@ https://en.hackndo.com/kerberos/
 
 Windows hard links
 https://learn.microsoft.com/en-us/windows/win32/fileio/hard-links-and-junctions
+
+SSL with wireshark
+https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/
