@@ -11,4 +11,4 @@ Windows hard links
 https://learn.microsoft.com/en-us/windows/win32/fileio/hard-links-and-junctions
 
 SSL with wireshark
-https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/
+https://support.f5.com/csp/article/K50557518
